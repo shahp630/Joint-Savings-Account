@@ -28,5 +28,9 @@ The steps for this homework are divided into the following sections:
 
 # Step 1: Create a Joint Savings Account Contract in Solidity
 
+![Screenshot (101)](https://github.com/shahp630/Joint-Savings-Account/assets/133065460/13226b8c-2946-47de-9a44-0f2c093342a0)
+
+![Screenshot (102)](https://github.com/shahp630/Joint-Savings-Account/assets/133065460/0e544d17-2ca4-44c7-b5b2-f07d2397b84b)
+
 
 
