@@ -33,4 +33,10 @@ The steps for this homework are divided into the following sections:
 ![Screenshot (102)](https://github.com/shahp630/Joint-Savings-Account/assets/133065460/0e544d17-2ca4-44c7-b5b2-f07d2397b84b)
 
 
+# Step 2: Compile and Deploy Your Contract in the JavaScript VM
+
+
+
+
+
 
