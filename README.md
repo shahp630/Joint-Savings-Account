@@ -43,6 +43,21 @@ The steps for this homework are divided into the following sections:
 
 ![Screenshot (91)](https://github.com/shahp630/Joint-Savings-Account/assets/133065460/7ff14e0e-8d1c-4faf-bb07-ec8ef07d46da)
 
+# Step 3: Interact with Your Deployed Smart Contract
+
+![Screenshot (92)](https://github.com/shahp630/Joint-Savings-Account/assets/133065460/f015a3e6-774a-44b4-8e05-af96f3afc6a4)
+
+![Screenshot (94)](https://github.com/shahp630/Joint-Savings-Account/assets/133065460/794041ec-7da4-46ec-920a-ebd796685a21)
+
+![Screenshot (95)](https://github.com/shahp630/Joint-Savings-Account/assets/133065460/8ce086fd-5de5-4c52-8a2d-839e570a1b16)
+
+![Screenshot (99)](https://github.com/shahp630/Joint-Savings-Account/assets/133065460/0c85d418-074d-4c8c-a8c4-792e49cc5541)
+
+![Screenshot (100)](https://github.com/shahp630/Joint-Savings-Account/assets/133065460/7fc180e7-9024-4284-90e3-31e226db205d)
+
+
+
+
 
 
 
