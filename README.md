@@ -35,6 +35,15 @@ The steps for this homework are divided into the following sections:
 
 # Step 2: Compile and Deploy Your Contract in the JavaScript VM
 
+![Screenshot (86)](https://github.com/shahp630/Joint-Savings-Account/assets/133065460/f8b41278-22e5-412a-9f5d-d634cbbbca58)
+
+![Screenshot (88)](https://github.com/shahp630/Joint-Savings-Account/assets/133065460/1e57f31e-fa47-4797-9a26-80b79f4f53c6)
+
+![Screenshot (90)](https://github.com/shahp630/Joint-Savings-Account/assets/133065460/af81a8eb-2a90-4e16-9be8-fae4cb601e20)
+
+![Screenshot (91)](https://github.com/shahp630/Joint-Savings-Account/assets/133065460/7ff14e0e-8d1c-4faf-bb07-ec8ef07d46da)
+
+
 
 
 
