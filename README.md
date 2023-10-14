@@ -51,6 +51,12 @@ The steps for this homework are divided into the following sections:
 
 ![Screenshot (95)](https://github.com/shahp630/Joint-Savings-Account/assets/133065460/8ce086fd-5de5-4c52-8a2d-839e570a1b16)
 
+![Screenshot (96)](https://github.com/shahp630/Joint-Savings-Account/assets/133065460/cd1dfa3a-ac70-4428-b28b-d268f098e4a5)
+
+![Screenshot (97)](https://github.com/shahp630/Joint-Savings-Account/assets/133065460/97da1c3c-17bd-439c-94e5-dc55af363747)
+
+![Screenshot (98)](https://github.com/shahp630/Joint-Savings-Account/assets/133065460/aedfa78e-5231-4038-b489-6fe85c29b9e1)
+
 ![Screenshot (99)](https://github.com/shahp630/Joint-Savings-Account/assets/133065460/0c85d418-074d-4c8c-a8c4-792e49cc5541)
 
 ![Screenshot (100)](https://github.com/shahp630/Joint-Savings-Account/assets/133065460/7fc180e7-9024-4284-90e3-31e226db205d)
